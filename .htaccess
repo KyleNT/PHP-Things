@@ -1,0 +1,4 @@
+#ace-charset-2.php, Aula 3
+#RewriteEngine On
+#A linha de código abaixo protege os diretórios
+#Options -Indexes
