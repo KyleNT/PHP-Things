@@ -246,10 +246,6 @@ $template24->render(['titulo'=>'ISC', 'nome'=>'Íbis Sport Clube', 'ano'=>'2024'
 ##AULA 15
 #Github
 
-##Se for logar,
-##nes.wil.con64@gmail.com
-##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
-
 ##AULA 16 Data e Hora avançados
 //Converte uma data e outra
 //$date = DateTime::createFromFormat("d/m/Y","23/03/2001");
