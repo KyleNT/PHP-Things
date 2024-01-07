@@ -1,5 +1,5 @@
 <?php
-//Validar Teçefone
+//Validar Telefone
 
 if(isset($_POST['acao'])){
     $nome = $_POST['nome'];
