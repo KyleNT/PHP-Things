@@ -1,8 +1,6 @@
 <?php
     $token = $_GET['token'];
 
-    ##SITE:
-    ##http://localhost/ace9-sistemadesuporte/chamado?token=57cdb32f9c85a9a8c3d48d94700f12bf
 ?>
 <h2>Visualizando chamado: <?php echo $_GET['token'] ?> </h2>
 
