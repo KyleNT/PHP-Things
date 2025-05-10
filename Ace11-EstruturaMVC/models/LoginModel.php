@@ -2,8 +2,8 @@
     namespace models;
 
     class LoginModel extends Model {
-        public $login = 'kraus';
-        public $password = 'kraus';
+        public $login = '';
+        public $password = '';
 
         public function validationLogin($login, $password){
             if($login == $this->login && $password = $this->password){
