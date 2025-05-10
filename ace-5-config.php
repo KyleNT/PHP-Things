@@ -6,8 +6,8 @@
     use Facebook\Exceptions\FacebookResponseException;
     use Facebook\Exceptions\FacebookSDKException;
 
-    $aprimaId = '308423331698816';
-    $aprimaSec = 'fedc0eb8006afd41238af85181f8faae';
+    $aprimaId = '';
+    $aprimaSec = '';
     $redirectUrl = 'http://localhost/testesphp/ace-5.php';
     $secondaryRedirectUrl = 'http://localhost/testesphp/';
     $fakebookPermissions = array('email');
