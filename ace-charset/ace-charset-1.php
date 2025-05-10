@@ -267,7 +267,7 @@ echo unhal();
 */
 
 ##AULA 18 - Array em constantes
-//define('Lançamento_de_base_de_dados',array('host'=>'localhost', 'dbname'=>'devweb', 'user'=>'root', 'password'=>'nadeshiko'));
+//define('Lançamento_de_base_de_dados',array('host'=>'localhost', 'dbname'=>'devweb', 'user'=>'root', 'password'=>''));
 //print_r(Lançamento_de_base_de_dados);
 
 ##AULA 19
